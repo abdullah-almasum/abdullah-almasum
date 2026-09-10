@@ -1,0 +1,15 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="line" x1="0" x2="1"><stop offset="0%" stop-color="#00D9FF"/><stop offset="100%" stop-color="#00FF9C"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1280" height="360" rx="18" fill="#05080D" stroke="#15303A"/>
+<text x="640" y="45" text-anchor="middle" font-family="monospace" font-size="22" font-weight="bold" fill="#FFFFFF">REAL-TIME SECURITY AUTOMATION</text>
+<g stroke="url(#line)" stroke-width="3" fill="none" filter="url(#glow)"><path d="M225 170H300"/><path d="M475 170H550"/><path d="M725 170H800"/><path d="M975 170H1050"/></g>
+<g font-family="monospace">
+<rect x="45" y="110" width="180" height="120" rx="12" fill="#08131A" stroke="#00D9FF" stroke-width="2"/><text x="135" y="150" text-anchor="middle" font-size="17" fill="#00D9FF">MICROSOFT</text><text x="135" y="178" text-anchor="middle" font-size="17" fill="#FFFFFF">DEFENDER</text><text x="135" y="205" text-anchor="middle" font-size="12" fill="#7B949E">EVENT ID 1116</text>
+<rect x="300" y="110" width="175" height="120" rx="12" fill="#08131A" stroke="#00FF9C" stroke-width="2"/><text x="387" y="150" text-anchor="middle" font-size="17" fill="#00FF9C">POWERSHELL</text><text x="387" y="180" text-anchor="middle" font-size="13" fill="#FFFFFF">AUTOMATION</text><text x="387" y="205" text-anchor="middle" font-size="12" fill="#7B949E">QUEUE / LOCK</text>
+<rect x="550" y="110" width="175" height="120" rx="12" fill="#08131A" stroke="#00D9FF" stroke-width="2"/><text x="637" y="150" text-anchor="middle" font-size="17" fill="#00D9FF">REST API</text><text x="637" y="180" text-anchor="middle" font-size="13" fill="#FFFFFF">INTEGRATION</text><text x="637" y="205" text-anchor="middle" font-size="12" fill="#7B949E">AUTH / TRIGGER</text>
+<rect x="800" y="110" width="175" height="120" rx="12" fill="#08131A" stroke="#00FF9C" stroke-width="2"/><text x="887" y="150" text-anchor="middle" font-size="17" fill="#00FF9C">TENABLE.IO</text><text x="887" y="180" text-anchor="middle" font-size="13" fill="#FFFFFF">VULNERABILITY</text><text x="887" y="205" text-anchor="middle" font-size="12" fill="#7B949E">SCAN</text>
+<rect x="1050" y="110" width="180" height="120" rx="12" fill="#08131A" stroke="#00D9FF" stroke-width="2"/><text x="1140" y="150" text-anchor="middle" font-size="17" fill="#00D9FF">REPORT</text><text x="1140" y="180" text-anchor="middle" font-size="13" fill="#FFFFFF">CSV</text><text x="1140" y="205" text-anchor="middle" font-size="12" fill="#7B949E">REMEDIATION</text>
+</g>
+<g fill="#00FF9C"><polygon points="300,170 288,163 288,177"/><polygon points="550,170 538,163 538,177"/><polygon points="800,170 788,163 788,177"/><polygon points="1050,170 1038,163 1038,177"/></g>
+<text x="640" y="285" text-anchor="middle" font-family="monospace" font-size="14" fill="#718993">DETECT → AUTOMATE → SCAN → ANALYZE → REMEDIATE</text>
+</svg>

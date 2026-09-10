@@ -1,0 +1,6 @@
+<svg width="900" height="250" viewBox="0 0 900 250" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="250" rx="14" fill="#05080D" stroke="#16333D"/><rect width="900" height="38" rx="14" fill="#0B1319"/>
+<circle cx="22" cy="19" r="5" fill="#4A6872"/><circle cx="40" cy="19" r="5" fill="#4A6872"/><circle cx="58" cy="19" r="5" fill="#4A6872"/>
+<text x="85" y="24" font-family="monospace" font-size="12" fill="#718993">security-terminal</text>
+<g font-family="monospace" font-size="15"><text x="30" y="75" fill="#00FF9C">$ whoami</text><text x="30" y="100" fill="#FFFFFF">abdullah-almasum</text><text x="30" y="135" fill="#00FF9C">$ security --profile</text><text x="30" y="160" fill="#A7BBC3">IT-AUDIT | GRC | VAPT</text><text x="30" y="182" fill="#A7BBC3">SWIFT-CSP | EDR | TENABLE</text><text x="30" y="204" fill="#A7BBC3">SECURITY-AUTOMATION</text><text x="30" y="232" fill="#00D9FF">STATUS: OPERATIONAL</text></g>
+</svg>
